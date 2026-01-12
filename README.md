@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/lavijaindev/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/lavijaindev/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lavijaindev/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lavijaindev/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/lavijaindev/leetcode/tree/master/0015-3sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/lavijaindev/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
